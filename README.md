@@ -12,8 +12,9 @@
 
 [google](https://www.google.com/)
 
-
-name | info
+mohammad alkhazali | info
 ------------ | -------------
-mohammad  | 0787701712
-email| malkazali83@gmail.com
+ markdown |[markdown](https://abu-al3ees.github.io/reading-notes/moh)
+ github |[GitHub](https://abu-al3ees.github.io/reading-notes/summary_git)
+
+
