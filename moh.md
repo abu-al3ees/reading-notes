@@ -16,5 +16,6 @@ You can use Markdown most places around GitHub:
 
 mohammad alkhazali | info
 ------------ | -------------
-phone  | 0787701712
-email | malkhazali83@gmail.com
+ markdown |[markdown](https://abu-al3ees.github.io/reading-notes/moh)
+ github |[GitHub](https://abu-al3ees.github.io/reading-notes/summary_git)
+
