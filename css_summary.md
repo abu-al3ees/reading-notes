@@ -1,5 +1,5 @@
-#Foreground Color
-#color
+# Foreground Color
+# color
 The color property allows you
 to specify the color of text inside
 an element. You can specify any
@@ -49,8 +49,8 @@ types of colors
 
 
 
-#Background Color
-#background-color
+# Background Color
+# background-color
 
 CSS treats each HTML element
 as if it appears in a box, and the
