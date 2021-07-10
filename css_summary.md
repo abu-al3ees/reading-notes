@@ -6,7 +6,7 @@ an element. You can specify any
 color in CSS in one of three ways:
 rgb values
 These express colors in terms
-of how much red, green and
+of how much red, green andgggg
 blue are used to make it up. For
 example: rgb(100,100,90)
 hex codes
